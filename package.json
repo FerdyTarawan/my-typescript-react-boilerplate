@@ -13,7 +13,7 @@
     "bootstrap": "^4.4.1",
     "formik": "^2.0.8",
     "history": "^4.10.1",
-    "jquery": "^1.9.1",
+    "jquery": "^3.4.0",
     "normalizr": "^3.4.1",
     "query-string": "^6.9.0",
     "react": "^16.12.0",
