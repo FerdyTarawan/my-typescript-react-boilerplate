@@ -1,0 +1,1 @@
+this directory contains general constants variable (or interface)

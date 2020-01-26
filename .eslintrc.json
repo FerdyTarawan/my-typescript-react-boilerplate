@@ -1,7 +1,13 @@
 {
-    "extends": ["prettier","airbnb-typescript","prettier/@typescript-eslint","prettier/react"],
-    "plugins": ["prettier"],
-    "rules": {
-      "prettier/prettier": ["error"]
-    }
+  "extends": [
+    "prettier",
+    "airbnb-typescript",
+    "prettier/@typescript-eslint",
+    "prettier/react"
+  ],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "no-extraneous-dependencies": false
   }
+}

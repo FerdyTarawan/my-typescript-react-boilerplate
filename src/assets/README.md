@@ -1,0 +1,1 @@
+This directory contains all assets files (i.e. images, audio files, font, or video) used by the application.
