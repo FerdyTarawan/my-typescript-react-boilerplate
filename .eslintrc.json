@@ -1,7 +1,7 @@
 {
   "extends": [
-    "prettier",
     "airbnb-typescript",
+    "prettier",
     "prettier/@typescript-eslint",
     "prettier/react"
   ],
@@ -17,6 +17,7 @@
       }
     ],
     "arrow-parens": ["error", "as-needed"],
-    "react/prop-types": [0]
+    "react/prop-types": [0],
+    "linebreak-style": 0
   }
 }

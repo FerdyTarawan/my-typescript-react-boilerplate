@@ -46,7 +46,8 @@
     "cy-open": "cypress open",
     "cypress": "cypress run",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "lint": "tsc --noEmit && eslint --ext .js,.ts,.tsx ./src"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -88,10 +89,16 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-react": "^7.19.0",
+    "husky": "^4.2.5",
     "prettier": "^1.19.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6",
     "start-server-and-test": "^1.11.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
   }
 }
