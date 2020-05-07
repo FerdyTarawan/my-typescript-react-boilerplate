@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [typescript template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript).
 
 ## Stacks
 - [TypeScript](https://github.com/microsoft/TypeScript)
