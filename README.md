@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [typescript template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript).
 
 ## Stacks
+
 - [TypeScript](https://github.com/microsoft/TypeScript)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [react-router v5.2](https://github.com/ReactTraining/react-router)
 - [react-redux](https://github.com/reduxjs/react-redux)
 - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
@@ -13,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [polished js](https://github.com/styled-components/polished)
 - [ramda](https://github.com/ramda/ramda)
 - [axios](https://github.com/axios/axios)
-- [formik](https://github.com/jaredpalmer/formik)
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
 - [date-fns](https://github.com/date-fns/date-fns)
 - [husky](https://github.com/typicode/husky)
 - [storybook](https://github.com/storybookjs/storybook)
