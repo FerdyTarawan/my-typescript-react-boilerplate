@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [react-router v5.2](https://github.com/ReactTraining/react-router)
 - [react-redux](https://github.com/reduxjs/react-redux)
 - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+- [redux-persist](https://github.com/rt2zz/redux-persist)
 - [redux-saga](https://github.com/redux-saga/redux-saga)
 - [redux toolkit](https://github.com/reduxjs/redux-toolkit)
 - [normalizr](https://github.com/paularmstrong/normalizr)
