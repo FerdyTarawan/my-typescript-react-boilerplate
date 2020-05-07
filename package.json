@@ -94,7 +94,6 @@
     "prettier": "^1.19.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "redux-devtools-extension": "^2.13.8",
-    "redux-logger": "^3.0.6",
     "start-server-and-test": "^1.11.0",
     "webpack": "^4.42.0"
   },
