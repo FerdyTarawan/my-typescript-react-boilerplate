@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [react-router v5.2](https://github.com/ReactTraining/react-router)
 - [react-redux](https://github.com/reduxjs/react-redux)
+- [redux-logger](https://github.com/LogRocket/redux-logger)
+- [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
 - [redux-saga](https://github.com/redux-saga/redux-saga)
 - [redux toolkit](https://github.com/reduxjs/redux-toolkit)
 - [immer](https://github.com/immerjs/immer) [, useImmer hooks](https://github.com/immerjs/use-immer)
