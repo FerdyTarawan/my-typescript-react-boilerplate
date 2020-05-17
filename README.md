@@ -1,32 +1,44 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [typescript template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript).
 
-## Stacks
+## Features
 
-- [TypeScript](https://github.com/microsoft/TypeScript)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [react-router v5.2](https://github.com/ReactTraining/react-router)
-- [react-redux](https://github.com/reduxjs/react-redux)
-- [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
-- [redux-persist](https://github.com/rt2zz/redux-persist)
-- [redux-saga](https://github.com/redux-saga/redux-saga)
-- [redux toolkit](https://github.com/reduxjs/redux-toolkit)
-- [normalizr](https://github.com/paularmstrong/normalizr)
-- [immer](https://github.com/immerjs/immer) [, useImmer hooks](https://github.com/immerjs/use-immer)
-- [react-18next](https://github.com/i18next/react-i18next)
-- [styled-component](https://github.com/styled-components/styled-components)
-- [styled-icons](https://github.com/jacobwgillespie/styled-icons)
-- [polished js](https://github.com/styled-components/polished)
-- [ramda](https://github.com/ramda/ramda)
-- [axios](https://github.com/axios/axios)
-- [SWR](https://github.com/zeit/swr)
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
-- [yup](https://github.com/jquense/yup)
-- [date-fns](https://github.com/date-fns/date-fns)
-- [husky](https://github.com/typicode/husky)
-- [storybook](https://github.com/storybookjs/storybook)
-- [jest](https://github.com/facebook/jest)
-- [react-testing-library](https://github.com/testing-library/react-testing-library)
-- [cypress](https://github.com/cypress-io/cypress)
+- Static Typing
+  - [TypeScript](https://github.com/microsoft/TypeScript)
+- Component creation
+  - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- Styling
+  - [styled-component](https://github.com/styled-components/styled-components)
+  - [styled-icons](https://github.com/jacobwgillespie/styled-icons)
+  - [polished js](https://github.com/styled-components/polished)
+  - [Styled system](https://github.com/styled-system/styled-system)
+- Routing
+  - [react-router v5.2](https://github.com/ReactTraining/react-router)
+- State Management
+  - [react-redux](https://github.com/reduxjs/react-redux)
+  - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+  - [redux-persist](https://github.com/rt2zz/redux-persist)
+  - [redux-saga](https://github.com/redux-saga/redux-saga)
+  - [redux toolkit](https://github.com/reduxjs/redux-toolkit)
+  - [normalizr](https://github.com/paularmstrong/normalizr)
+  - [immer](https://github.com/immerjs/immer) [, useImmer hooks](https://github.com/immerjs/use-immer)
+- Internationalization
+  - [react-18next](https://github.com/i18next/react-i18next)
+- API
+  - [axios](https://github.com/axios/axios)
+  - [SWR](https://github.com/zeit/swr)
+- Forms
+  - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - [yup](https://github.com/jquense/yup)
+- Utilities
+  - [ramda](https://github.com/ramda/ramda)
+  - [date-fns](https://github.com/date-fns/date-fns)
+  - [husky](https://github.com/typicode/husky)
+- Documentation
+  - [storybook](https://github.com/storybookjs/storybook)
+- Testing
+  - [jest](https://github.com/facebook/jest)
+  - [react-testing-library](https://github.com/testing-library/react-testing-library)
+  - [cypress](https://github.com/cypress-io/cypress)
 
 ## Available Scripts
 
