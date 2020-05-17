@@ -18,6 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [polished js](https://github.com/styled-components/polished)
 - [ramda](https://github.com/ramda/ramda)
 - [axios](https://github.com/axios/axios)
+- [SWR](https://github.com/zeit/swr)
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
 - [yup](https://github.com/jquense/yup)
 - [date-fns](https://github.com/date-fns/date-fns)
