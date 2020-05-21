@@ -19,7 +19,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [redux-persist](https://github.com/rt2zz/redux-persist)
   - [redux-saga](https://github.com/redux-saga/redux-saga)
   - [redux toolkit](https://github.com/reduxjs/redux-toolkit)
-  - [normalizr](https://github.com/paularmstrong/normalizr)
   - [immer](https://github.com/immerjs/immer) [, useImmer hooks](https://github.com/immerjs/use-immer)
 - Internationalization
   - [react-18next](https://github.com/i18next/react-i18next)
