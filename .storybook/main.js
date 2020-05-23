@@ -14,8 +14,6 @@ module.exports = {
       },
     },
     '@storybook/addon-actions/register',
-    '@storybook/addon-links/register',
-    '@storybook/addon-notes/register',
-    '@storybook/addon-knobs/register',
+    '@storybook/addon-viewport/register',
   ],
 };
