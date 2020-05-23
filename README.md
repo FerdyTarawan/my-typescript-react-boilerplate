@@ -31,6 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Utilities
   - [ramda](https://github.com/ramda/ramda)
   - [date-fns](https://github.com/date-fns/date-fns)
+  - [localForage](https://github.com/localForage/localForage)
   - [husky](https://github.com/typicode/husky)
 - Documentation
   - [storybook](https://github.com/storybookjs/storybook)
