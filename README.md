@@ -29,6 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - [yup](https://github.com/jquense/yup)
 - Utilities
+  - [type-fest](https://github.com/sindresorhus/type-fest)
+  - [react-use](https://github.com/streamich/react-use)
   - [ramda](https://github.com/ramda/ramda)
   - [date-fns](https://github.com/date-fns/date-fns)
   - [localForage](https://github.com/localForage/localForage)

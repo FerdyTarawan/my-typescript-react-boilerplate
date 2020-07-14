@@ -19,5 +19,10 @@
     "arrow-parens": ["error", "as-needed"],
     "react/prop-types": [0],
     "linebreak-style": 0
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {} // this loads <rootdir>/tsconfig.json to eslint
+    }
   }
 }
