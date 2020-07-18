@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Utilities
   - [type-fest](https://github.com/sindresorhus/type-fest)
   - [react-use](https://github.com/streamich/react-use)
-  - [ramda](https://github.com/ramda/ramda)
+  - [lodash](https://github.com/lodash/lodash)
   - [date-fns](https://github.com/date-fns/date-fns)
   - [localForage](https://github.com/localForage/localForage)
   - [husky](https://github.com/typicode/husky)
