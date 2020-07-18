@@ -109,7 +109,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx,html}": [
+    "*.{js,jsx,ts,tsx}": [
       "tsc --noEmit",
       "eslint --ext .js,.ts,.tsx ./src"
     ]
