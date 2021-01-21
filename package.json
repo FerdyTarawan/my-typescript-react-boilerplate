@@ -9,7 +9,7 @@
     "history": "^4.10.1",
     "i18next-browser-languagedetector": "^4.1.1",
     "i18next-xhr-backend": "^3.2.2",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "localforage": "^1.7.3",
     "lodash": "^4.17.19",
     "polished": "^3.5.2",
